@@ -82,6 +82,10 @@ body {
 	background-color: #424242;
 }
 
+.uil-sun {
+	color: #FF9F0A;
+}
+
 .display .content {
 	display: flex;
 	flex-direction: column;
@@ -127,7 +131,7 @@ body {
 	height: 0;
 	padding-top: 100%;
 	background-color: #333333;
-	border-radius: 50%;
+	border-radius: .7rem;
 	transition: 0.2s;
 	user-select: none;
 }
@@ -137,7 +141,7 @@ body {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	font-size: 2rem;
+	font-size: 1.5rem;
 	font-weight: 700;
 	color: #FFF;
 }

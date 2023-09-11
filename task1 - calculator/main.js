@@ -134,9 +134,11 @@ function html(value) {
 themeBtn.addEventListener('click', function () {
   body.classList.toggle('dark');
   body.style.backgroundColor = '#c0c0c0';
+  document.querySelector('.display').style.borderBottom = '2px solid #111111';
   if (themeBtn.innerHTML === html('moon')) {
     themeBtn.innerHTML = html('sun');
     body.style.backgroundColor = 'rgb(49, 49, 49)';
+    document.querySelector('.display').style.borderBottom = '1px solid rgba(128, 128, 128, 0.068)';
   } else {
     themeBtn.innerHTML = html('moon');
   }
