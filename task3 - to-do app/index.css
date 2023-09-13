@@ -11,12 +11,6 @@ html {
 }
 
 
-:root {
-    --DARK-COLOR: rgb(87, 5, 76);
-    --BG-COLOR: #f7beef;
-    --APP-COLOR: rgba(191, 66, 174, 0.418);
-}
-
 
 .main {
     display: flex;
@@ -248,13 +242,14 @@ h3 {
 }
 
 /* copyright */
-.copyright{
+.copyright {
     position: absolute;
     bottom: -2rem;
     font-size: 1.2rem;
     color: var(--DARK-COLOR);
 }
-.name{
+
+.name {
     text-decoration: underline;
     cursor: pointer;
 }

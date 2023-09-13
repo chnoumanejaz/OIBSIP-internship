@@ -219,6 +219,10 @@ function saveTheme(color) {
 // loading  user theme on  Window reload
 function loadTheme() {
   const color = localStorage.getItem('AppThemeByUser');
+   if (color === null) {
+    loadBlue();
+    return;
+  }
   if (color === 'blue') loadBlue();
   if (color === 'green') loadGreen();
   if (color === 'red') loadRed();
