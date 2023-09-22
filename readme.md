@@ -4,9 +4,8 @@ I'm grateful for the valuable insights and hands-on learning I gained from the t
 
 # Tasks - Link
 ## Task 1 - Calculator
-live link will be here soon...
-
-image soon ...
+https://github.com/chnoumanejaz/OIBSIP-internship/blob/main/Tasks%20images/calculator%20app.png
+![Calculator](./Tasks%20images/calculator%20app.png)
 
 
 ## Task 2 - Tribute Page
@@ -24,4 +23,3 @@ image soon ...
 live link will be here soon...
 
 image soon ...
-<!-- ![Servigo Landing Page](./Tasks%20images/calculator.png) -->
