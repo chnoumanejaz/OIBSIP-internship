@@ -4,22 +4,20 @@ I'm grateful for the valuable insights and hands-on learning I gained from the t
 
 # Tasks - Link
 ## Task 1 - Calculator
-https://github.com/chnoumanejaz/OIBSIP-internship/blob/main/Tasks%20images/calculator%20app.png
-![Calculator](./Tasks%20images/calculator%20app.png)
+ ![Calculator](./Tasks%20images/calculator%20app.png)
 
 
 ## Task 2 - Tribute Page
-live link will be here soon...
+ ![Tribute Page](./Tasks%20images/tribute%20page.png)
 
-image soon ...
-
+ 
 
 ## Task 3 - To-Do App
-live link will be here soon...
-
-image soon ...
+ https://todo-nouman.netlify.app/
+ ![ToDo App](./Tasks%20images/todoView.png)
 
 ## Task 4 - Authentication 
-live link will be here soon...
-
-image soon ...
+ ![Authentication App](./Tasks%20images/login.png)
+ ![Authentication App](./Tasks%20images/register.png)
+ ![Authentication App](./Tasks%20images/home.png)
+ 
